@@ -1,0 +1,25 @@
+{
+  "name": "crud-app1",
+  "version": "1.0.0",
+  "description": "this is a basic crud application",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saif520/node-crud-app1.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "ejs"
+  ],
+  "author": "Saifuddin Dhali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saif520/node-crud-app1/issues"
+  },
+  "homepage": "https://github.com/saif520/node-crud-app1#readme"
+}
